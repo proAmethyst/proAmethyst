@@ -1,11 +1,90 @@
-# 👉🏻 Mihai Profir
 
-**`🧑🏻‍💻 Junior Web Developer`**
+#### *Good interfaces are not added at the end — they are designed from the start.*
+## **`👋 Hi, I’m Mihai`**
+I’m a Frontend-leaning Full-Stack Web Developer with a strong focus on UI, UX, and product clarity, building real-world web applications primarily using PHP & Laravel.
+
+I enjoy turning complex requirements into clean, usable interfaces, while fully understanding and maintaining the backend systems that power them.
 
 
-<h3 align="left">Connect with me:</h3>
 
----
+## 🎨 Frontend focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+* UI & layout logic (spacing, hierarchy, responsiveness) 
+
+* Blade templates, Tailwind CSS, Bootstrap
+
+* Dark / light mode handling
+
+* Accessibility & visual consistency
+
+* Data-driven UI (dashboards, calendar heatmaps)
+
+* UX decisions based on real usage, not assumptions
+
+*Frontend is where I’m most comfortable — and where I spend most of my attention.*
+
+## 🧩 Backend foundations
+
+* PHP (5.6 → 8.x)
+
+* Laravel (5.8 → 12.x)
+
+* Routing, controllers, middleware, auth
+
+* MySQL, migrations, data modeling
+
+* Webhooks, forms, integrations
+
+* Legacy system maintenance & refactoring
+
+*I don’t treat backend as a black box — I understand it well enough to design better frontend solutions and avoid architectural friction.*
+
+## 🛠 Tools & workflow
+
+* Git & structured branching
+
+* VS Code, Laragon
+
+* Composer, environment management
+
+* GA4, GTM, Cookiebot, technical SEO
+
+* Clean commits, readable code, incremental improvements
+
+*I value clarity, structure, and long-term maintainability over quick hacks.*
+
+## 🚀 Projects & interests
+
+* Minimal, offline-first habit tracking tools
+
+* UI-driven dashboards & visualizations
+
+* Product-oriented web platforms
+
+* Photography & visual aesthetics
+
+* Mechanical & 3D design (engineering mindset)
+
+*These interests strongly influence how I think about interfaces, systems, and user experience.*
+
+## 🧠 How I work
+
+* I prefer simple, predictable solutions
+
+* I focus on real products, not demo apps
+
+* I care about the next developer who reads my code
+
+* I ask questions to reduce long-term technical debt
+
+## 📫 Open to
+
+* Collaboration
+
+* Frontend-heavy or full-stack roles
+
+* Improving existing products
+
+* UX-driven technical discussions
+
+*The most practical way to change "who you are" is to change "what you do".*
